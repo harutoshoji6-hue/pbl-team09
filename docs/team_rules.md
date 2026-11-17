@@ -3,7 +3,7 @@
 - チーム番号: 09
 - グループ: B
 - 担当TA: 荒有杜
-- メンバ: みき (mimimi-0619)
+- メンバ: 加藤樹 (mimimi-0619)、大谷万尋 (nyankomatatabi28-droid)、荘司悠翔 (harutoshoji6-hue)
 - リポジトリURL: https://github.com/harutoshoji6-hue/pbl-team09
 - Slack チャンネル:
 
@@ -11,7 +11,7 @@
 | 役割 | 担当 | 内容 |
 |------|------|------|
 | リポジトリ管理 | | 承認の後にマージされているかの確認 |
-| 書記 | みき | 決定事項を requirements.md / design.md に記録する |
+| 書記 | 加藤樹 | 決定事項を requirements.md / design.md に記録する |
 | 発表準備 | | 中間発表・デモの進行と時間管理 |
 
 ## ブランチと Pull Request（PR）
