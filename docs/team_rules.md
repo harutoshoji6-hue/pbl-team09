@@ -2,7 +2,7 @@
 
 - チーム番号: 09
 - グループ: B
-- 担当TA:
+- 担当TA: 荒有杜
 - メンバ: みき (mimimi-0619)
 - リポジトリURL: https://github.com/harutoshoji6-hue/pbl-team09
 - Slack チャンネル:
