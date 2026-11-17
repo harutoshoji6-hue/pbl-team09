@@ -1,17 +1,17 @@
 # チーム運営ルール
 
-- チーム番号:
-- グループ: A / B
+- チーム番号: 09
+- グループ: B
 - 担当TA:
-- メンバ:
-- リポジトリURL:
+- メンバ: みき (mimimi-0619)
+- リポジトリURL: https://github.com/harutoshoji6-hue/pbl-team09
 - Slack チャンネル:
 
 ## 役割
 | 役割 | 担当 | 内容 |
 |------|------|------|
 | リポジトリ管理 | | 承認の後にマージされているかの確認 |
-| 書記 | | 決定事項を requirements.md / design.md に記録する |
+| 書記 | みき | 決定事項を requirements.md / design.md に記録する |
 | 発表準備 | | 中間発表・デモの進行と時間管理 |
 
 ## ブランチと Pull Request（PR）
