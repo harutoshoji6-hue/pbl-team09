@@ -5,7 +5,7 @@
 - 担当TA: 荒有杜
 - メンバ: 加藤樹 (mimimi-0619)、大谷万尋 (nyankomatatabi28-droid)、荘司悠翔 (harutoshoji6-hue)
 - リポジトリURL: https://github.com/harutoshoji6-hue/pbl-team09
-- Slack チャンネル:
+- Slack チャンネル: 2026 応用情報工学演習 谷口研 開発チーム9 (https://tus-it-all.slack.com/archives/C0CJ6EFN069)
 
 ## 役割
 | 役割 | 担当 | 内容 |
@@ -35,3 +35,4 @@
 | 日付 | 変更内容 |
 |------|----------|
 | 2026-11-17 | 初版（チーム基本情報、担当TA、メンバ・役割分担を記入） |
+| 2026-11-19 | Slack チャンネル名とリンクを追記 |
