@@ -1,7 +1,7 @@
 # AGENTS.md — このリポジトリでAIエージェントが守るルール
 
 ## プロジェクト
-画像処理・画像認識を応用したアプリケーション「画像ターゲット撃破ゲーム（仮題）」を、3人のチームで仕様駆動開発する。
+画像処理・画像認識を応用したアプリケーション「フェイスバスター（Face Buster）」を、3人のチームで仕様駆動開発する。
 
 ## 仕様の場所（唯一の正しい情報源）
 - docs/specs/requirements.md（要求仕様書）
@@ -12,7 +12,7 @@
 
 ## 技術的な制約
 - 言語: Python 3.10 以上
-- 使ってよいライブラリ: OpenCV (opencv-python), NumPy, PyQt5（※顔検出に MediaPipe を採用する場合は未決事項 UQ-002 決定後に追記）
+- 使ってよいライブラリ: OpenCV (opencv-python), NumPy, PyQt5（および Python 標準ライブラリ）
 - 上記以外のライブラリはインストール・import しない。必要だと考えた場合は理由を示して人間に確認する。
 - テストの実行コマンド: `python -m unittest discover -s tests -v`
 - テスト画像は data/test_images/ に置く。
